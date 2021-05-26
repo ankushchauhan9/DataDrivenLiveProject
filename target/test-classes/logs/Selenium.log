@@ -1,0 +1,14 @@
+2021-05-23 17:53:33,851 +0530 [main] DEBUG (TestBase.java:35) - Config file is loaded!!
+2021-05-23 17:53:33,858 +0530 [main] DEBUG (TestBase.java:39) - OR file is loaded!!
+2021-05-23 17:53:37,645 +0530 [main] DEBUG (TestBase.java:47) - Chrome driver is launched!!
+2021-05-23 17:53:41,219 +0530 [main] DEBUG (TestBase.java:54) - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
+2021-05-23 17:53:41,472 +0530 [main] DEBUG (LoginTest.java:12) - Inside loginAsbankManager() method
+2021-05-23 17:53:46,611 +0530 [main] DEBUG (LoginTest.java:15) - loginAsbankManager() method successfully completed !!!
+2021-05-23 17:53:47,954 +0530 [main] DEBUG (TestBase.java:65) - Test Execution completed
+2021-05-23 18:01:35,639 +0530 [main] DEBUG (TestBase.java:33) - Config file is loaded!!
+2021-05-23 18:01:35,648 +0530 [main] DEBUG (TestBase.java:37) - OR file is loaded!!
+2021-05-23 18:01:38,688 +0530 [main] DEBUG (TestBase.java:45) - Chrome driver is launched!!
+2021-05-23 18:01:42,430 +0530 [main] DEBUG (TestBase.java:52) - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
+2021-05-23 18:01:42,647 +0530 [main] DEBUG (LoginTest.java:12) - Inside loginAsbankManager() method
+2021-05-23 18:01:47,767 +0530 [main] DEBUG (LoginTest.java:15) - loginAsbankManager() method successfully completed !!!
+2021-05-23 18:01:49,337 +0530 [main] DEBUG (TestBase.java:63) - Test Execution completed

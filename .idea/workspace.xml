@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c6a0a65-1e5e-4e85-9864-d4501071eb55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="12" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1svgKgKLHO0NTWnJHCneMSRCO4d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\test-output" />
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\java" />
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test" />
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources" />
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources\runner" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.w2a.testcases" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources" />
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources\excel" />
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources\executables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/ankush.chauhan/IdeaProjects/DataDrivenFramework/src/test/resources/runner/testng.xml">
+    <configuration name="TestProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.w2a.rough.TestProperties" />
+      <module name="DataDrivenFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.rough.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ankush.chauhan/IdeaProjects/DataDrivenFramework/src/test/resources/runner/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataDrivenFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/runner/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataDrivenFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.w2a.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.w2a.testcases.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginAsbankManager" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataDrivenFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.w2a.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.w2a.testcases.LoginTest" />
+      <option name="METHOD_NAME" value="loginAsbankManager" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestProperties" />
+      <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/DataDrivenFramework/src/test/resources/runner/testng.xml" />
+      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.LoginTest.loginAsbankManager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/DataDrivenFramework/src/test/resources/runner/testng.xml" />
+        <item itemvalue="TestNG.LoginTest.loginAsbankManager" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="Application.TestProperties" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c6a0a65-1e5e-4e85-9864-d4501071eb55" name="Default Changelist" comment="" />
+      <created>1621758414955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621758414955</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621769604494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1621769604494" />
+    <state x="425" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621770501821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1621770501821" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1621861508292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1621861508292" />
+    <state x="445" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1621762970014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1621762970014" />
+    <state width="426" height="456" key="DebuggerActiveHint" timestamp="1621851268461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="426" height="456" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1621851268461" />
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1621927415291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621927415291" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1621927415290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621927415290" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1621927415290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621927415290" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1621927415291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621927415291" />
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1621851323019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621851323019" />
+    <state width="1322" height="223" key="GridCell.Tab.1.center" timestamp="1621851323019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1621851323019" />
+    <state width="1322" height="223" key="GridCell.Tab.1.left" timestamp="1621851323018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1621851323018" />
+    <state width="1322" height="223" key="GridCell.Tab.1.right" timestamp="1621851323019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1621851323019" />
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1621849150078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1621849150078" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1621773221972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1621773221972" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1621861449371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1621861449371" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/w2a/utilities/ExcelReader.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/w2a/utilities/ExcelReader.java</url>
+          <line>451</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/w2a/utilities/ExcelReader.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="config.getProperty(&quot;testsiteurl&quot;)" language="JAVA" />
+        <watch expression="OR.getProperty(&quot;bmlbtn&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
