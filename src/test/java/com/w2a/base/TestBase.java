@@ -14,6 +14,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterSuite;
@@ -35,6 +36,7 @@ public class TestBase {
     public static WebDriverWait wait;
     public ExtentReports report = ExtentManager.getInstance();
     public static ExtentTest test;
+    public static String browser;
 
     @BeforeSuite
     public void setUp() throws IOException {
@@ -50,6 +52,14 @@ public class TestBase {
             OR.load(fis);
             logger.debug("OR file is loaded!!");
 
+            if(System.getenv("browser") != null && !System.getenv("browser").isEmpty()){
+                browser = System.getenv("browser");
+            }else{
+                browser = config.getProperty("browser");
+            }
+
+            config.setProperty("browser", browser);
+
             if(config.getProperty("browser").equals("firefox")){
                 System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+"//src//test//resources//executables//geckodriver.exe");
                 driver = new FirefoxDriver();
@@ -58,8 +68,13 @@ public class TestBase {
                 driver = new ChromeDriver();
                 logger.debug("Chrome driver is launched!!");
             }else if(config.getProperty("browser").equals("edge")){
-                System.setProperty("webdriver.edge.driver",System.getProperty("user.dir")+"\\src\\test\\resources\\executables\\IEDriverServer.exe");
+                System.setProperty("webdriver.edge.driver",System.getProperty("user.dir")+"\\src\\test\\resources\\executables\\msedgedriver.exe");
                 driver = new EdgeDriver();
+                logger.debug("Edge driver is launched!!");
+            }else if (config.getProperty("browser").equals("IE")){
+                System.setProperty("webdriver.ie.driver",System.getProperty("user.dir")+"\\src\\test\\resources\\executables\\IEDriverServer.exe");
+                driver = new InternetExplorerDriver();
+                logger.debug("Edge driver is launched!!");
             }
 
             driver.get(config.getProperty("testsiteurl"));

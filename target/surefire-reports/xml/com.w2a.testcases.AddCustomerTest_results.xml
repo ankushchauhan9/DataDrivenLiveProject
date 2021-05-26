@@ -3,16 +3,22 @@
            tests="4"
            failures="0"
            errors="0"
-           skipped="1"
-           time="1.809">
+           skipped="4"
+           time="0.000">
   <properties />
   
             <testcase name="addCustomerTest" time="0.0" classname="com.w2a.testcases.AddCustomerTest">
           <skipped />
     </testcase>
+            <testcase name="addCustomerTest" time="0.0" classname="com.w2a.testcases.AddCustomerTest">
+          <skipped />
+    </testcase>
+            <testcase name="addCustomerTest" time="0.0" classname="com.w2a.testcases.AddCustomerTest">
+          <skipped />
+    </testcase>
+            <testcase name="addCustomerTest" time="0.0" classname="com.w2a.testcases.AddCustomerTest">
+          <skipped />
+    </testcase>
   
-            <testcase name="addCustomerTest" time="0.351" classname="com.w2a.testcases.AddCustomerTest" />
-                <testcase name="addCustomerTest" time="0.726" classname="com.w2a.testcases.AddCustomerTest" />
-                <testcase name="addCustomerTest" time="0.729" classname="com.w2a.testcases.AddCustomerTest" />
-      
+  
 </testsuite>
