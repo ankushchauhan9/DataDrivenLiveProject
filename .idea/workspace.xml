@@ -1,36 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4c6a0a65-1e5e-4e85-9864-d4501071eb55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/w2a/utilities/MonitoringMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/w2a/utilities/TestConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Screenshots/extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screenshots/extent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/w2a/com/w2a/listeners/CustomListners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/w2a/com/w2a/listeners/CustomListners.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/logs/Application.logs" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logs/Application.logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/logs/Selenium.logs" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logs/Selenium.logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/logs/Application.logs" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/logs/Application.logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/logs/Selenium.logs" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/logs/Selenium.logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Data Driven Basic/Add Customer Login Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Data Driven Basic/Add Customer Login Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Data Driven Basic/Add Customer Login Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Data Driven Basic/Add Customer Login Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Data Driven Basic/Bank Manager Login Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Data Driven Basic/Bank Manager Login Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Data Driven Basic/Bank Manager Login Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Data Driven Basic/Bank Manager Login Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Data Driven Basic/Open Customer Account Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Data Driven Basic/Open Customer Account Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Data Driven Basic/Open Customer Account Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Data Driven Basic/Open Customer Account Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test3_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test3_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.w2a.testcases.AddCustomerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.w2a.testcases.AddCustomerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.w2a.testcases.BankManagerLoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.w2a.testcases.BankManagerLoginTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.w2a.testcases.OpenAccountTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.w2a.testcases.OpenAccountTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Data Driven Basic/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Data Driven Basic/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Data Driven Basic/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Data Driven Basic/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.w2a.testcases.AddCustomerTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.w2a.testcases.AddCustomerTest_results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.w2a.testcases.BankManagerLoginTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.w2a.testcases.BankManagerLoginTest_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/w2a/com/w2a/listeners/CustomListners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/w2a/com/w2a/listeners/CustomListners.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +23,8 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -60,7 +36,6 @@
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="12" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
@@ -75,28 +50,17 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/w2a/utilities" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\java\com\w2a\utilities" />
-      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources" />
-      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources\excel" />
-      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources\executables" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.w2a.testcases" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\test-output" />
       <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\java" />
@@ -104,10 +68,18 @@
       <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources" />
       <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources\runner" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.w2a.testcases" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources" />
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources\excel" />
+      <recent name="C:\Users\ankush.chauhan\IdeaProjects\DataDrivenFramework\src\test\resources\executables" />
+    </key>
   </component>
   <component name="RunManager" selected="TestNG.C:/Users/ankush.chauhan/IdeaProjects/DataDrivenFramework/src/test/resources/runner/testng.xml">
-    <configuration name="TestMail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.w2a.rough.TestMail" />
+    <configuration name="TestProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.w2a.rough.TestProperties" />
       <module name="DataDrivenFramework" />
       <extension name="coverage">
         <pattern>
@@ -119,15 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.w2a.rough.TestProperties" />
-      <module name="DataDrivenFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.w2a.rough.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,12 +160,10 @@
       <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/DataDrivenFramework/src/test/resources/runner/testng.xml" />
       <item itemvalue="TestNG.LoginTest" />
       <item itemvalue="TestNG.LoginTest.loginAsbankManager" />
-      <item itemvalue="Application.TestMail" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/DataDrivenFramework/src/test/resources/runner/testng.xml" />
-        <item itemvalue="Application.TestMail" />
         <item itemvalue="TestNG.LoginTest.loginAsbankManager" />
         <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="Application.TestProperties" />
@@ -225,93 +193,19 @@
       <option name="presentableId" value="Default" />
       <updated>1621758414955</updated>
     </task>
-    <task id="LOCAL-00001" summary="commit">
-      <created>1622094884554</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1622094884554</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621769604494">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1621769604494" />
-    <state x="425" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621770501821">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="425" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1621770501821" />
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1622098662289">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1622098662289" />
-    <state x="445" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1621762970014">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="445" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1621762970014" />
-    <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1622094880596">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="280" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1622094880596" />
-    <state width="426" height="456" key="DebuggerActiveHint" timestamp="1622097392940">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="426" height="456" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1622097392940" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1622098799545">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622098799545" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1622098799544">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622098799544" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1622098799544">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622098799544" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1622098799545">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622098799545" />
-    <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1622097570529">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622097570529" />
-    <state width="1322" height="223" key="GridCell.Tab.1.center" timestamp="1622097570528">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1622097570528" />
-    <state width="1322" height="223" key="GridCell.Tab.1.left" timestamp="1622097570528">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1622097570528" />
-    <state width="1322" height="223" key="GridCell.Tab.1.right" timestamp="1622097570528">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1622097570528" />
-    <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1621849150078">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="213" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1621849150078" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1622024317835">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622024317835" />
-    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1621861449371">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1621861449371" />
-    <state x="356" y="168" key="git4idea.merge.GitPullDialog" timestamp="1622094892839">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="356" y="168" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1622094892839" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -330,21 +224,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/w2a/utilities/ExcelReader.java</url>
           <line>37</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/w2a/utilities/MonitoringMail.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/w2a/utilities/MonitoringMail.java</url>
-          <line>93</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/w2a/utilities/MonitoringMail.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
