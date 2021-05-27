@@ -1,3 +1,7 @@
-26/05/2021 16:57:45 devpinoyLogger Config file is loaded!!
-26/05/2021 16:57:45 devpinoyLogger OR file is loaded!!
-26/05/2021 16:57:53 devpinoyLogger Edge driver is launched!!
+27/05/2021 12:30:08 devpinoyLogger Config file is loaded!!
+27/05/2021 12:30:08 devpinoyLogger OR file is loaded!!
+27/05/2021 12:30:15 devpinoyLogger Chrome driver is launched!!
+27/05/2021 12:30:19 devpinoyLogger Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
+27/05/2021 12:30:19 devpinoyLogger Inside loginAsbankManager() method
+27/05/2021 12:30:20 devpinoyLogger loginAsbankManager() method successfully completed !!!
+27/05/2021 12:30:26 devpinoyLogger Test Execution completed

@@ -2,11 +2,16 @@ package com.w2a.com.w2a.listeners;
 
 import com.relevantcodes.extentreports.LogStatus;
 import com.w2a.base.TestBase;
+import com.w2a.utilities.MonitoringMail;
+import com.w2a.utilities.TestConfig;
 import org.testng.*;
 
+import javax.mail.MessagingException;
 import java.io.IOException;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 
-public class CustomListners extends TestBase implements ITestListener {
+public class CustomListners extends TestBase implements ITestListener, ISuiteListener {
 
 
     @Override
@@ -72,5 +77,27 @@ public class CustomListners extends TestBase implements ITestListener {
     @Override
     public void onFinish(ITestContext context) {
 
+    }
+
+    @Override
+    public void onStart(ISuite suite) {
+
+    }
+
+    @Override
+    public void onFinish(ISuite suite) {
+
+        MonitoringMail mail = new MonitoringMail();
+        String msgBody = null;
+        try {
+            msgBody = "http://"+ InetAddress.getLocalHost().getHostAddress()+":8080/job/DataDrivenLiveProject/Extent_20Report";
+        } catch (UnknownHostException e) {
+            e.printStackTrace();
+        }
+        try {
+            mail.sendMail(TestConfig.server, TestConfig.from, TestConfig.to, TestConfig.subject, msgBody);
+        } catch (MessagingException e) {
+            e.printStackTrace();
+        }
     }
 }
