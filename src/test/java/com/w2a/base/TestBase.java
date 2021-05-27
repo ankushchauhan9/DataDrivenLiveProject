@@ -21,6 +21,7 @@ import org.testng.annotations.BeforeSuite;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.Date;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
@@ -39,6 +40,9 @@ public class TestBase {
     @BeforeSuite
     public void setUp() throws IOException {
 
+        Date d = new Date();
+        String date = d.toString().replace(":","_").replace(" ", "_");
+        System.setProperty("current.date",date);
         PropertyConfigurator.configure("src/test/java/log4j.properties");
         //BasicConfigurator.configure();
         if(driver == null) {

@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="6" passed="4" failed="0" skipped="2">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-27T12:30:19 IST" name="Data Driven Basic" finished-at="2021-05-27T12:30:26 IST" duration-ms="6549">
+  <suite started-at="2021-05-27T13:09:03 IST" name="Data Driven Basic" finished-at="2021-05-27T13:09:08 IST" duration-ms="4982">
     <groups>
     </groups>
-    <test started-at="2021-05-27T12:30:19 IST" name="Bank Manager Login Test" finished-at="2021-05-27T12:30:21 IST" duration-ms="1651">
+    <test started-at="2021-05-27T13:09:03 IST" name="Bank Manager Login Test" finished-at="2021-05-27T13:09:04 IST" duration-ms="1229">
       <class name="com.w2a.testcases.BankManagerLoginTest">
-        <test-method signature="bankManagerLoginTest()[pri:0, instance:com.w2a.testcases.BankManagerLoginTest@640f11a1]" started-at="2021-05-27T12:30:19 IST" name="bankManagerLoginTest" finished-at="2021-05-27T12:30:20 IST" duration-ms="598" status="PASS">
+        <test-method signature="bankManagerLoginTest()[pri:0, instance:com.w2a.testcases.BankManagerLoginTest@6e6d5d29]" started-at="2021-05-27T13:09:03 IST" name="bankManagerLoginTest" finished-at="2021-05-27T13:09:03 IST" duration-ms="267" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bankManagerLoginTest -->
       </class> <!-- com.w2a.testcases.BankManagerLoginTest -->
     </test> <!-- Bank Manager Login Test -->
-    <test started-at="2021-05-27T12:30:21 IST" name="Add Customer Login Test" finished-at="2021-05-27T12:30:25 IST" duration-ms="4546">
+    <test started-at="2021-05-27T13:09:04 IST" name="Add Customer Login Test" finished-at="2021-05-27T13:09:08 IST" duration-ms="3475">
       <class name="com.w2a.testcases.AddCustomerTest">
-        <test-method signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomerTest@4795ded0]" started-at="2021-05-27T12:30:21 IST" name="addCustomerTest" data-provider="dp" finished-at="2021-05-27T12:30:23 IST" duration-ms="2455" status="PASS">
+        <test-method signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomerTest@13f17eb4]" started-at="2021-05-27T13:09:05 IST" name="addCustomerTest" data-provider="dp" finished-at="2021-05-27T13:09:06 IST" duration-ms="1828" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addCustomerTest -->
-        <test-method signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomerTest@4795ded0]" started-at="2021-05-27T12:30:24 IST" name="addCustomerTest" data-provider="dp" finished-at="2021-05-27T12:30:24 IST" duration-ms="637" status="PASS">
+        <test-method signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomerTest@13f17eb4]" started-at="2021-05-27T13:09:06 IST" name="addCustomerTest" data-provider="dp" finished-at="2021-05-27T13:09:07 IST" duration-ms="546" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addCustomerTest -->
-        <test-method signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomerTest@4795ded0]" started-at="2021-05-27T12:30:24 IST" name="addCustomerTest" data-provider="dp" finished-at="2021-05-27T12:30:24 IST" duration-ms="3" status="SKIP">
+        <test-method signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomerTest@13f17eb4]" started-at="2021-05-27T13:09:07 IST" name="addCustomerTest" data-provider="dp" finished-at="2021-05-27T13:09:07 IST" duration-ms="32" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -85,7 +85,7 @@ at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addCustomerTest -->
-        <test-method signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomerTest@4795ded0]" started-at="2021-05-27T12:30:25 IST" name="addCustomerTest" data-provider="dp" finished-at="2021-05-27T12:30:25 IST" duration-ms="626" status="PASS">
+        <test-method signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomerTest@13f17eb4]" started-at="2021-05-27T13:09:07 IST" name="addCustomerTest" data-provider="dp" finished-at="2021-05-27T13:09:08 IST" duration-ms="641" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -98,13 +98,13 @@ at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
         </test-method> <!-- addCustomerTest -->
       </class> <!-- com.w2a.testcases.AddCustomerTest -->
     </test> <!-- Add Customer Login Test -->
-    <test started-at="2021-05-27T12:30:25 IST" name="Open Customer Account Test" finished-at="2021-05-27T12:30:26 IST" duration-ms="145">
+    <test started-at="2021-05-27T13:09:08 IST" name="Open Customer Account Test" finished-at="2021-05-27T13:09:08 IST" duration-ms="132">
       <class name="com.w2a.testcases.OpenAccountTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.OpenAccountTest@5c8504fd]" started-at="2021-05-27T12:30:08 IST" name="setUp" finished-at="2021-05-27T12:30:19 IST" duration-ms="10718" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.OpenAccountTest@758a34ce]" started-at="2021-05-27T13:08:54 IST" name="setUp" finished-at="2021-05-27T13:09:03 IST" duration-ms="8858" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="openAccountTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.OpenAccountTest@5c8504fd]" started-at="2021-05-27T12:30:25 IST" name="openAccountTest" data-provider="dp" finished-at="2021-05-27T12:30:25 IST" duration-ms="1" status="SKIP">
+        <test-method signature="openAccountTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.OpenAccountTest@758a34ce]" started-at="2021-05-27T13:09:08 IST" name="openAccountTest" data-provider="dp" finished-at="2021-05-27T13:09:08 IST" duration-ms="1" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -149,7 +149,7 @@ at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openAccountTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.w2a.testcases.OpenAccountTest@5c8504fd]" started-at="2021-05-27T12:30:26 IST" name="tearDown" finished-at="2021-05-27T12:30:26 IST" duration-ms="955" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.w2a.testcases.OpenAccountTest@758a34ce]" started-at="2021-05-27T13:09:08 IST" name="tearDown" finished-at="2021-05-27T13:09:09 IST" duration-ms="1048" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

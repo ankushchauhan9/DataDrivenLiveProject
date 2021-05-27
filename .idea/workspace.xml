@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6a0a65-1e5e-4e85-9864-d4501071eb55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/w2a/utilities/MonitoringMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/w2a/utilities/TestConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Screenshots/extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screenshots/extent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/w2a/com/w2a/listeners/CustomListners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/w2a/com/w2a/listeners/CustomListners.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/logs/Application.logs" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logs/Application.logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/logs/Selenium.logs" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logs/Selenium.logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/w2a/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/w2a/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/logs/Application.logs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/logs/Selenium.logs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/w2a/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/w2a/base/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/w2a/com/w2a/listeners/CustomListners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/w2a/com/w2a/listeners/CustomListners.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/logs/Application.logs" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/logs/Application.logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/logs/Selenium.logs" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/logs/Selenium.logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/logs/Selenium.logs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Data Driven Basic/Add Customer Login Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Data Driven Basic/Add Customer Login Test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Data Driven Basic/Add Customer Login Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Data Driven Basic/Add Customer Login Test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Data Driven Basic/Bank Manager Login Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Data Driven Basic/Bank Manager Login Test.html" afterDir="false" />
@@ -232,12 +233,20 @@
       <option name="project" value="LOCAL" />
       <updated>1622094884554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mail changes">
+      <created>1622099504200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622099504200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="mail changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="mail changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621769604494">
@@ -256,30 +265,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1621762970014" />
-    <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1622094880596">
+    <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1622099495754">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="280" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1622094880596" />
+    <state x="280" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1622099495754" />
     <state width="426" height="456" key="DebuggerActiveHint" timestamp="1622097392940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="426" height="456" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1622097392940" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1622098799545">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1622101126997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622098799545" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1622098799544">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622101126997" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1622101126997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622098799544" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1622098799544">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622101126997" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1622101126997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622098799544" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1622098799545">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622101126997" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1622101126997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622098799545" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622101126997" />
     <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1622097570529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -304,6 +313,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622024317835" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1622099515654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1622099515654" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1621861449371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
